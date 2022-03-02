@@ -1,9 +1,9 @@
  # Welcome!
 
 - 👋 Hello guys,  I’m Rinaldo.
-- 👀 I’m Fullstack Developer!
+- 👀 I’m interested Front-End Developer!
 - 🌱 I’m currently learning more about Front-End Developer.
-- 💞️ I’m looking to collaborate on create a new project and find a new job.
+- 💞️ I’m looking to learn more about projects and find a new job.
 
 ## About me
 
