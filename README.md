@@ -3,7 +3,7 @@
 - 👋 Hello guys,  I’m Rinaldo.
 - 👀 I’m interested Front-End Developer!
 - 🌱 I’m currently learning more about Front-End Developer.
-- 💞️ I’m looking to learn more about projects and find a new job.
+- 💞️ I’m looking a new job.
 
 ## About me
 
