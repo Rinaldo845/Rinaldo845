@@ -1,6 +1,6 @@
  # Welcome!
 
-- 👋 Hello guys,  I’m Rinaldo.
+- 👋 Hello guys,  I’m Rinaldo. Living in Sao Paulo, Brazil.
 - 👀 I’m interested Front-End Developer!
 - 🌱 I’m currently learning more about Front-End Developer.
 - 💞️ I’m looking a new job.
