@@ -1,9 +1,10 @@
  # Welcome!
 
-- 👋 Hello guys,  I’m Rinaldo. Living in Sao Paulo, Brazil.
-- 👀 I’m interested Front-End Developer!
-- 🌱 I’m currently learning more about Front-End Developer.
-- 💞️ I’m looking a new job.
+-  Hello guys,  I’m Rinaldo. Living in Sao Paulo, Brazil.
+-  I have a degree in Systems Analisys and Development.
+-  I’m interested Front-End Developer.
+-  I’m currently learning more about Front-End Developer.
+
 
 ## About me
 
