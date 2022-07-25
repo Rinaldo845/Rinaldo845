@@ -2,7 +2,7 @@
 
 -  Hello guys,  I’m Rinaldo. Living in Sao Paulo, Brazil.
 -  I have a degree in Systems Analisys and Development.
--  I’m interested Full Stack Developer.
+-  I’m interested FullStack Developer.
 -  I’m currently learning more about Full Stack Developer.
 
 
